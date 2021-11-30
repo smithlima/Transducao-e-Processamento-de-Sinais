@@ -1,1 +1,1 @@
-# Transducao-e-Processamento-de-Sinais
+# Transdução e Processamento de Sinais
